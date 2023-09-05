@@ -1,6 +1,3 @@
-
-
-
 <h1 align = center><b>⠂About Me⠐</b></h1>
 
 <h3 align = center><b>
