@@ -3,9 +3,7 @@
 <h3 align = center><b>
 
 ```python
-"Python" Lover 💖
-Want To Be A "Programmer" | "Web Designer" ❤
-I'm Still Learning "Python" | "Java"  
+I'm Still Learning "Python" 
 For Any Suggestion Or Enquiry mail Me
 Mail ID :- gauravv2504@gmail.com
 
