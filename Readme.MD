@@ -9,7 +9,7 @@
   ```python
   I'm Still Learning "Python" 
   For Any Suggestion Or Enquiry, mail Me
-  Mail ID: gauravv2504@gmail.com'''
+  Mail ID: gauravv2504@gmail.com```
 </b> </h3>
 
 <h2 align="center"><b>⠂Github Stats⠐</b></h2> <p align="center"> <a href="https://github-readme-stats.vercel.app/api?username=iisgaurav&layout=compact&show_icons=true&theme=chartreuse-dark&cache_seconds=1800"> <img width="55%" alt="𝙼𝚢 𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜" src="https://github-readme-stats.vercel.app/api?username=iisgaurav&layout=compact&show_icons=true&theme=chartreuse-dark&cache_seconds=1800" /> </a> </p> <p align="center"> <a href="https://github.com/iisgaurav"> <img width="55%" src="https://github-readme-streak-stats.herokuapp.com?user=iisgaurav&theme=chartreuse-dark&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /> </a> </p> <p align="center"> <a href="https://github.com/iisgaurav"> <img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iisgaurav&layout=compact&theme=chartreuse-dark" alt="Top Languages" /> </a> </p> <p align="center"> <img src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" alt="Header Image" /> </p>
